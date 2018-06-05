@@ -9,6 +9,8 @@
 <body>
 <h1>Welcome</h1>
 
+<a href="alternate"><button>Let me in!</button></a>
+<a href="secured"><button>Test Admin Access</button></a>
 
 </body>
 </html>
